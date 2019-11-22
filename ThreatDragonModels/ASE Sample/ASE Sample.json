@@ -1,0 +1,15 @@
+{
+  "summary": {
+    "title": "ASE Sample"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "ASE TM",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
+  }
+}
